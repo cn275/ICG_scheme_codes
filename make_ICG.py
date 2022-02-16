@@ -2,7 +2,7 @@
 All the import functions to execute the CG generation
 '"""
 
-ICGLIB="/Users/cnowak/Downloads/py_scheme/funcs"
+ICGLIB="path to ICG lib of funcs. To be replaced with modules"
 from collections import Counter
 from functools import reduce
 import  operator, math, itertools, string
